@@ -1,0 +1,10 @@
+numpy
+scipy
+pillow
+opencv-python
+torch
+scikit-learn
+easyocr
+joblib
+pandas
+pyautogui
