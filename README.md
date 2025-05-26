@@ -12,12 +12,18 @@ It includes:
 
 ## Usage:
 git clone https://github.com/IKapusta/LoL-Win-Probability-Overlay.git
+
 cd LoL-Win-Probability-Overlay
+
 pip install -r requirements.txt
+
 Required Real-ESRGAN is already provided in the core/realesrgan
+
 if you want to retrain the models with different data, and create a "data" folder in the project root directory and look into core/models_gametime.py for the training function 
 
 ## Acknowledgments
 Real-ESRGAN
+
 EasyOCR
+
 Riot Games 
