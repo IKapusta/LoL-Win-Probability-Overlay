@@ -18,6 +18,7 @@ cd LoL-Win-Probability-Overlay
 pip install -r requirements.txt
 
 play a League of Legends LEC/LTA video in fullscreen
+
 main.py if you want terminal output, or main-noTerminal.pyw for no terminal
 
 Required Real-ESRGAN is already provided in the core/realesrgan
